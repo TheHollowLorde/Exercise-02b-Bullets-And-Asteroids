@@ -1,4 +1,4 @@
-# Exercise-02bc-Explosions and Enemy
+# Exercise-02c-Explosions and Enemy
 
 Exercise for MSCH-C220
 
